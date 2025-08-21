@@ -1,0 +1,8 @@
+
+preco_produto := 150.50;
+quantidade    := 2;
+desconto      := 20.0;
+valor_bruto  := preco_produto * quantidade;
+valor_final  := valor_bruto - desconto;
+
+escreva(valor_final); 

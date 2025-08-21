@@ -1,0 +1,15 @@
+{
+  "name": "compilador-final",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "teste:sucesso": "node src/index.js exemplos/teste_sucesso.calc",
+    "teste:sintaxe": "node src/index.js exemplos/teste_erro_sintaxe.calc",
+    "teste:semantico": "node src/index.js exemplos/teste_erro_semantico.calc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
