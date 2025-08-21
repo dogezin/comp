@@ -4,8 +4,8 @@ Este projeto é a implementação de um compilador para uma linguagem de program
 
 O compilador é capaz de analisar um arquivo de código-fonte, verificar a sintaxe, identificar erros semânticos (como o uso de variáveis não declaradas) e, se o código for válido, executar os cálculos respeitando a precedência de operadores.
 
-**Autor:** Daniel Lodos da Ressurreição
-**Usuário GitHub:** dogezin
+Autor: Daniel Lodos da Ressurreição
+
 
 
    Node.js: Ambiente de execução para o JavaScript.
